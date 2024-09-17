@@ -20,7 +20,8 @@ On August 25, 2024, the Arbat Dam in Sudan's Red Sea State collapsed due to inte
 - ArcGIS Pro for final map production
 
  # Methodology: 
- [Maps/metodology.png](url)
+![metodology](https://github.com/user-attachments/assets/b55602f1-7f98-4099-9591-ebf8a295e6d8)
+
 
 
 
