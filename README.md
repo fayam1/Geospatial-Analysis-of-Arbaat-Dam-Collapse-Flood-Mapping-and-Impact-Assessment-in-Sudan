@@ -43,7 +43,7 @@ On August 25, 2024, the Arbat Dam in Sudan's Red Sea State collapsed due to inte
 - ArcGIS Pro for final map production
   
 # Results/Conclusions
-# 1-Flood Extent:
+## 1-Flood Extent:
 
 - Pre-collapse flood extent: 7.24 square kilometers
 
@@ -51,7 +51,7 @@ On August 25, 2024, the Arbat Dam in Sudan's Red Sea State collapsed due to inte
 
 - Increase in flooded area: 96.4% 
 
-# 2-Land Cover Impacts:
+## 2-Land Cover Impacts:
 
 - Agricultural land was affected, with 1.28 square kilometers flooded
 
@@ -64,7 +64,7 @@ On August 25, 2024, the Arbat Dam in Sudan's Red Sea State collapsed due to inte
 - Infrastructures such as roads and bridges are also affected, which could cut off the affected population from other parts of the country and make rescue operations challenging.
 
 
-# 3.Interactive Web Map : 
+## 3.Interactive Web Map : 
 https://lucent-semifreddo-bbcfe5.netlify.app/sudan_flood_extent_map.html
 
 To enhance the accessibility and impact of our findings, I developed an interactive web map that visualizes the flood extent and its impacts:
@@ -81,7 +81,7 @@ To enhance the accessibility and impact of our findings, I developed an interact
 
 - The map integrates multiple data layers including flood extent, land cover, and infrastructure
 
-# This interactive tool serves as a powerful resource for:
+### This interactive tool serves as a powerful resource for:
 
 - Disaster response teams to identify priority areas
 
