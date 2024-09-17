@@ -1,8 +1,14 @@
 # Geospatial Analysis of Arbaat Dam Collapse: Flood Mapping and Impact Assessment in Sudan
 # Project Description:
-On August 25, 2024, the Arbat Dam in Sudan's Red Sea State collapsed due to intense rainfall, releasing millions of cubic meters of water downstream. This disaster exacerbated the ongoing humanitarian crisis in Sudan, which has been experiencing severe flooding since August 1, 2024, and has been embroiled in a 16-month civil conflict. This project utilized Sentinel-1 SAR imagery to map the flood extent before and after the dam collapse, assessing the impact on the region using integrated analysis of flood extent, land cover data, and infrastructure information. 
+On August 25, 2024, the Arbat Dam in Sudan's Red Sea State collapsed due to intense rainfall, releasing millions of cubic meters of water downstream. This disaster exacerbated the ongoing humanitarian crisis in Sudan, which has been experiencing severe flooding since August 1, 2024, and has been embroiled in a 16-month civil conflict. This project utilized Sentinel-1 SAR imagery to map the flood extent before and after the dam collapse, assessing the impact on the region using integrated analysis of flood extent, land cover data, and infrastructure information.
 
 ![webmap22222](https://github.com/user-attachments/assets/e6112d84-3f4e-46bc-ab95-b06709636b95)
+
+
+![Arbaat Dam22](https://github.com/user-attachments/assets/dd82aae6-05fc-4c91-9f7a-5baaf40aeeb5)
+
+
+
 
 
 
