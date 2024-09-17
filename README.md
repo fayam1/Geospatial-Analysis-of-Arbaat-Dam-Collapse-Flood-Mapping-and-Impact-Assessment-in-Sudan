@@ -20,8 +20,7 @@ On August 25, 2024, the Arbat Dam in Sudan's Red Sea State collapsed due to inte
 - ArcGIS Pro for final map production
 
  # Methodology: 
-https://github.com/fayam1/Geospatial-Analysis-of-Arbaat-Dam-Collapse-Flood-Mapping-and-Impact-Assessment-in-Sudan/blob/4061fe5198111b22b609703c92a8fbe9f3efe63d/Maps/metodology.png
-
+![metodology](https://github.com/user-attachments/assets/ef0bf8db-3181-4233-ba44-882147450524)
 
 
 
