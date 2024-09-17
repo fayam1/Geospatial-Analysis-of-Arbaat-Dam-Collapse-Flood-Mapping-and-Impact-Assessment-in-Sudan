@@ -2,7 +2,9 @@
 # Project Description:
 On August 25, 2024, the Arbat Dam in Sudan's Red Sea State collapsed due to intense rainfall, releasing millions of cubic meters of water downstream. This disaster exacerbated the ongoing humanitarian crisis in Sudan, which has been experiencing severe flooding since August 1, 2024, and has been embroiled in a 16-month civil conflict. This project utilized Sentinel-1 SAR imagery to map the flood extent before and after the dam collapse, assessing the impact on the region using integrated analysis of flood extent, land cover data, and infrastructure information. 
 
-![Arbaat Dam11](https://github.com/user-attachments/assets/22f42b01-9dfb-4618-a609-042cdbd0fcc8)
+![webmap](https://github.com/user-attachments/assets/f384d09c-758b-4757-aeee-913703dd8df8)
+
+
 
 
 
