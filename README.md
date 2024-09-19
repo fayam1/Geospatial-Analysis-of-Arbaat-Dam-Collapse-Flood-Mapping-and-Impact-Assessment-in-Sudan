@@ -53,7 +53,7 @@ On August 25, 2024, the Arbat Dam in Sudan's Red Sea State collapsed due to inte
 
 
 #### 3.Interactive Web Map : 
-https://lucent-semifreddo-bbcfe5.netlify.app/sudan_flood_extent_map.html
+https://fantastic-malabi-ffce65.netlify.app/sudan_flood_extent_map.html
 
 To enhance the accessibility and impact of our findings, I developed an interactive web map that visualizes the flood extent and its impacts:
 
